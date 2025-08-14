@@ -16,7 +16,7 @@ export default function AboutPage() {
           <h2 className="text-2xl font-semibold text-[var(--hongqi-green)]">企业愿景</h2>
           <p className="mt-4 text-[#475569] leading-relaxed">
             红琪智造，鲜享未来。我们通过科技赋能，为餐饮行业提供安心、高效的净菜产品与服务。
-            坚持"从田间到餐桌"的全链路质量控制，以HACCP体系为基础，智能制造为手段，
+            坚持&ldquo;从田间到餐桌&rdquo;的全链路质量控制，以HACCP体系为基础，智能制造为手段，
             为客户创造降本增效的价值。
           </p>
           <div className="mt-6 grid grid-cols-2 gap-4">
