@@ -1,0 +1,575 @@
+{
+  "total_images": 110,
+  "classification_time": "2025-08-14T09:32:58.055Z",
+  "categories": {
+    "products": [
+      {
+        "filename": "image11.jpeg",
+        "size": 194571,
+        "sizeKB": "190.0"
+      },
+      {
+        "filename": "image12.jpeg",
+        "size": 212572,
+        "sizeKB": "207.6"
+      },
+      {
+        "filename": "image13.jpeg",
+        "size": 168267,
+        "sizeKB": "164.3"
+      },
+      {
+        "filename": "image14.jpeg",
+        "size": 163506,
+        "sizeKB": "159.7"
+      },
+      {
+        "filename": "image15.jpeg",
+        "size": 182178,
+        "sizeKB": "177.9"
+      },
+      {
+        "filename": "image16.jpeg",
+        "size": 183596,
+        "sizeKB": "179.3"
+      },
+      {
+        "filename": "image17.jpeg",
+        "size": 172341,
+        "sizeKB": "168.3"
+      },
+      {
+        "filename": "image18.jpeg",
+        "size": 175067,
+        "sizeKB": "171.0"
+      },
+      {
+        "filename": "image19.jpeg",
+        "size": 148051,
+        "sizeKB": "144.6"
+      },
+      {
+        "filename": "image20.jpeg",
+        "size": 164264,
+        "sizeKB": "160.4"
+      },
+      {
+        "filename": "image21.jpeg",
+        "size": 168906,
+        "sizeKB": "164.9"
+      },
+      {
+        "filename": "image22.jpeg",
+        "size": 189276,
+        "sizeKB": "184.8"
+      },
+      {
+        "filename": "image23.png",
+        "size": 187449,
+        "sizeKB": "183.1"
+      },
+      {
+        "filename": "image24.png",
+        "size": 168990,
+        "sizeKB": "165.0"
+      },
+      {
+        "filename": "image25.png",
+        "size": 197304,
+        "sizeKB": "192.7"
+      },
+      {
+        "filename": "image26.jpeg",
+        "size": 30321,
+        "sizeKB": "29.6"
+      },
+      {
+        "filename": "image27.jpeg",
+        "size": 193431,
+        "sizeKB": "188.9"
+      },
+      {
+        "filename": "image28.png",
+        "size": 197310,
+        "sizeKB": "192.7"
+      },
+      {
+        "filename": "image29.png",
+        "size": 261425,
+        "sizeKB": "255.3"
+      },
+      {
+        "filename": "image30.jpeg",
+        "size": 32990,
+        "sizeKB": "32.2"
+      }
+    ],
+    "factory": [
+      {
+        "filename": "image31.png",
+        "size": 174640,
+        "sizeKB": "170.5"
+      },
+      {
+        "filename": "image32.png",
+        "size": 188733,
+        "sizeKB": "184.3"
+      },
+      {
+        "filename": "image33.png",
+        "size": 152724,
+        "sizeKB": "149.1"
+      },
+      {
+        "filename": "image34.png",
+        "size": 144019,
+        "sizeKB": "140.6"
+      },
+      {
+        "filename": "image35.png",
+        "size": 168081,
+        "sizeKB": "164.1"
+      },
+      {
+        "filename": "image36.png",
+        "size": 167158,
+        "sizeKB": "163.2"
+      },
+      {
+        "filename": "image37.png",
+        "size": 170878,
+        "sizeKB": "166.9"
+      },
+      {
+        "filename": "image38.png",
+        "size": 197743,
+        "sizeKB": "193.1"
+      },
+      {
+        "filename": "image39.jpeg",
+        "size": 39922,
+        "sizeKB": "39.0"
+      },
+      {
+        "filename": "image40.png",
+        "size": 221681,
+        "sizeKB": "216.5"
+      },
+      {
+        "filename": "image41.png",
+        "size": 227418,
+        "sizeKB": "222.1"
+      },
+      {
+        "filename": "image42.png",
+        "size": 208139,
+        "sizeKB": "203.3"
+      },
+      {
+        "filename": "image43.png",
+        "size": 708840,
+        "sizeKB": "692.2"
+      },
+      {
+        "filename": "image44.png",
+        "size": 803197,
+        "sizeKB": "784.4"
+      },
+      {
+        "filename": "image45.png",
+        "size": 666517,
+        "sizeKB": "650.9"
+      },
+      {
+        "filename": "image46.png",
+        "size": 620808,
+        "sizeKB": "606.3"
+      },
+      {
+        "filename": "image47.png",
+        "size": 466961,
+        "sizeKB": "456.0"
+      },
+      {
+        "filename": "image48.png",
+        "size": 219835,
+        "sizeKB": "214.7"
+      },
+      {
+        "filename": "image49.png",
+        "size": 219132,
+        "sizeKB": "214.0"
+      },
+      {
+        "filename": "image50.png",
+        "size": 1397213,
+        "sizeKB": "1364.5"
+      },
+      {
+        "filename": "image51.png",
+        "size": 1754205,
+        "sizeKB": "1713.1"
+      },
+      {
+        "filename": "image52.png",
+        "size": 1195404,
+        "sizeKB": "1167.4"
+      },
+      {
+        "filename": "image53.png",
+        "size": 1998882,
+        "sizeKB": "1952.0"
+      },
+      {
+        "filename": "image54.png",
+        "size": 193541,
+        "sizeKB": "189.0"
+      },
+      {
+        "filename": "image55.wdp",
+        "size": 36733,
+        "sizeKB": "35.9"
+      },
+      {
+        "filename": "image56.png",
+        "size": 3818,
+        "sizeKB": "3.7"
+      },
+      {
+        "filename": "image57.jpeg",
+        "size": 115588,
+        "sizeKB": "112.9"
+      },
+      {
+        "filename": "image58.jpeg",
+        "size": 105893,
+        "sizeKB": "103.4"
+      },
+      {
+        "filename": "image59.png",
+        "size": 949400,
+        "sizeKB": "927.1"
+      },
+      {
+        "filename": "image60.png",
+        "size": 993372,
+        "sizeKB": "970.1"
+      }
+    ],
+    "certificates": [
+      {
+        "filename": "image61.png",
+        "size": 1817972,
+        "sizeKB": "1775.4"
+      },
+      {
+        "filename": "image62.png",
+        "size": 1315650,
+        "sizeKB": "1284.8"
+      },
+      {
+        "filename": "image63.png",
+        "size": 211578,
+        "sizeKB": "206.6"
+      },
+      {
+        "filename": "image64.png",
+        "size": 212177,
+        "sizeKB": "207.2"
+      },
+      {
+        "filename": "image65.jpeg",
+        "size": 42235,
+        "sizeKB": "41.2"
+      },
+      {
+        "filename": "image66.png",
+        "size": 187748,
+        "sizeKB": "183.3"
+      },
+      {
+        "filename": "image67.png",
+        "size": 229188,
+        "sizeKB": "223.8"
+      },
+      {
+        "filename": "image68.png",
+        "size": 169928,
+        "sizeKB": "165.9"
+      },
+      {
+        "filename": "image69.png",
+        "size": 198008,
+        "sizeKB": "193.4"
+      },
+      {
+        "filename": "image70.png",
+        "size": 102473,
+        "sizeKB": "100.1"
+      },
+      {
+        "filename": "image71.png",
+        "size": 192308,
+        "sizeKB": "187.8"
+      },
+      {
+        "filename": "image72.png",
+        "size": 204766,
+        "sizeKB": "200.0"
+      },
+      {
+        "filename": "image73.jpeg",
+        "size": 47123,
+        "sizeKB": "46.0"
+      },
+      {
+        "filename": "image74.png",
+        "size": 191633,
+        "sizeKB": "187.1"
+      },
+      {
+        "filename": "image75.png",
+        "size": 133333,
+        "sizeKB": "130.2"
+      },
+      {
+        "filename": "image76.png",
+        "size": 78973,
+        "sizeKB": "77.1"
+      },
+      {
+        "filename": "image77.png",
+        "size": 80901,
+        "sizeKB": "79.0"
+      },
+      {
+        "filename": "image78.png",
+        "size": 91046,
+        "sizeKB": "88.9"
+      },
+      {
+        "filename": "image79.png",
+        "size": 121857,
+        "sizeKB": "119.0"
+      },
+      {
+        "filename": "image80.jpeg",
+        "size": 40668,
+        "sizeKB": "39.7"
+      }
+    ],
+    "team": [],
+    "logos": [
+      {
+        "filename": "image1.jpeg",
+        "size": 334558,
+        "sizeKB": "326.7"
+      },
+      {
+        "filename": "image10.png",
+        "size": 210295,
+        "sizeKB": "205.4"
+      },
+      {
+        "filename": "image2.jpeg",
+        "size": 276841,
+        "sizeKB": "270.4"
+      },
+      {
+        "filename": "image3.png",
+        "size": 7716,
+        "sizeKB": "7.5"
+      },
+      {
+        "filename": "image4.png",
+        "size": 2480984,
+        "sizeKB": "2422.8"
+      },
+      {
+        "filename": "image5.wdp",
+        "size": 370709,
+        "sizeKB": "362.0"
+      },
+      {
+        "filename": "image6.png",
+        "size": 26725,
+        "sizeKB": "26.1"
+      },
+      {
+        "filename": "image7.png",
+        "size": 7202,
+        "sizeKB": "7.0"
+      },
+      {
+        "filename": "image8.png",
+        "size": 18005,
+        "sizeKB": "17.6"
+      },
+      {
+        "filename": "image9.wdp",
+        "size": 28652,
+        "sizeKB": "28.0"
+      }
+    ],
+    "others": [
+      {
+        "filename": "image100.jpeg",
+        "size": 19508,
+        "sizeKB": "19.1"
+      },
+      {
+        "filename": "image101.jpeg",
+        "size": 15841,
+        "sizeKB": "15.5"
+      },
+      {
+        "filename": "image102.jpeg",
+        "size": 45118,
+        "sizeKB": "44.1"
+      },
+      {
+        "filename": "image103.jpeg",
+        "size": 26805,
+        "sizeKB": "26.2"
+      },
+      {
+        "filename": "image104.jpeg",
+        "size": 16977,
+        "sizeKB": "16.6"
+      },
+      {
+        "filename": "image105.jpeg",
+        "size": 31598,
+        "sizeKB": "30.9"
+      },
+      {
+        "filename": "image106.jpeg",
+        "size": 112931,
+        "sizeKB": "110.3"
+      },
+      {
+        "filename": "image107.jpeg",
+        "size": 116733,
+        "sizeKB": "114.0"
+      },
+      {
+        "filename": "image108.jpeg",
+        "size": 64514,
+        "sizeKB": "63.0"
+      },
+      {
+        "filename": "image109.wdp",
+        "size": 28652,
+        "sizeKB": "28.0"
+      },
+      {
+        "filename": "image110.png",
+        "size": 726420,
+        "sizeKB": "709.4"
+      },
+      {
+        "filename": "image81.png",
+        "size": 116726,
+        "sizeKB": "114.0"
+      },
+      {
+        "filename": "image82.png",
+        "size": 124425,
+        "sizeKB": "121.5"
+      },
+      {
+        "filename": "image83.png",
+        "size": 108871,
+        "sizeKB": "106.3"
+      },
+      {
+        "filename": "image84.jpeg",
+        "size": 31635,
+        "sizeKB": "30.9"
+      },
+      {
+        "filename": "image85.png",
+        "size": 3975216,
+        "sizeKB": "3882.0"
+      },
+      {
+        "filename": "image86.png",
+        "size": 2885955,
+        "sizeKB": "2818.3"
+      },
+      {
+        "filename": "image87.jpeg",
+        "size": 6249629,
+        "sizeKB": "6103.2"
+      },
+      {
+        "filename": "image88.png",
+        "size": 1827651,
+        "sizeKB": "1784.8"
+      },
+      {
+        "filename": "image89.png",
+        "size": 2284017,
+        "sizeKB": "2230.5"
+      },
+      {
+        "filename": "image90.png",
+        "size": 1690115,
+        "sizeKB": "1650.5"
+      },
+      {
+        "filename": "image91.png",
+        "size": 1777309,
+        "sizeKB": "1735.7"
+      },
+      {
+        "filename": "image92.png",
+        "size": 1757441,
+        "sizeKB": "1716.3"
+      },
+      {
+        "filename": "image93.png",
+        "size": 1262376,
+        "sizeKB": "1232.8"
+      },
+      {
+        "filename": "image94.png",
+        "size": 1589106,
+        "sizeKB": "1551.9"
+      },
+      {
+        "filename": "image95.jpeg",
+        "size": 25693,
+        "sizeKB": "25.1"
+      },
+      {
+        "filename": "image96.jpeg",
+        "size": 17161,
+        "sizeKB": "16.8"
+      },
+      {
+        "filename": "image97.jpeg",
+        "size": 24160,
+        "sizeKB": "23.6"
+      },
+      {
+        "filename": "image98.jpeg",
+        "size": 36503,
+        "sizeKB": "35.6"
+      },
+      {
+        "filename": "image99.jpeg",
+        "size": 33885,
+        "sizeKB": "33.1"
+      }
+    ]
+  },
+  "summary": {
+    "products": 20,
+    "factory": 30,
+    "certificates": 20,
+    "team": 0,
+    "logos": 10,
+    "others": 30
+  }
+}

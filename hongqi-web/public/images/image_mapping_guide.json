@@ -1,0 +1,18 @@
+{
+  "instructions": "请将提取的图片按以下规则分类保存",
+  "categories": {
+    "products": "产品相关图片 - 蔬菜、水果、净菜、包装等",
+    "factory": "工厂设备图片 - 生产线、机器、车间等",
+    "certificates": "证书资质图片 - HACCP认证、许可证等",
+    "team": "团队照片 - 员工、合影、会议等",
+    "logos": "Logo标识 - 公司标志、品牌标识等",
+    "others": "其他图片 - 无法分类的图片"
+  },
+  "website_mappings": {
+    "首页Hero区域": "factory/生产线图片或产品图片",
+    "产品卡片占位": "products/具体产品图片",
+    "工厂展示区域": "factory/设备或车间图片",
+    "证书展示区域": "certificates/认证证书图片",
+    "公司Logo": "logos/红琪标识图片"
+  }
+}

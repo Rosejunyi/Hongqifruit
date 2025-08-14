@@ -1,0 +1,30 @@
+[
+  {
+    "file": "src/app/layout.tsx",
+    "location": "头部Logo",
+    "oldCode": "<span className=\"text-[var(--hongqi-green)] font-semibold\">红琪</span>",
+    "newCode": "<Image src=\"/images/logos/image1.jpeg\" alt=\"红琪Logo\" width={120} height={40} />",
+    "image": "image1.jpeg"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "location": "首页产品预览",
+    "oldCode": "<span className=\"text-[#64748B] text-sm\">产品图占位 {i}</span>",
+    "newCode": "<Image src=\"/images/products/image11.jpeg\" alt=\"精选产品\" fill className=\"object-cover\" />",
+    "image": "image11.jpeg"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "location": "Hero区域背景",
+    "oldCode": "<span className=\"text-[#64748B] text-sm\">视频占位：自动化清洗/切割/包装</span>",
+    "newCode": "<Image src=\"/images/factory/image31.png\" alt=\"智能工厂\" fill className=\"object-cover\" />",
+    "image": "image31.png"
+  },
+  {
+    "file": "src/app/about/page.tsx",
+    "location": "证书展示",
+    "oldCode": "<span className=\"text-xs text-[#64748B]\">证书图</span>",
+    "newCode": "<Image src=\"/images/certificates/image61.png\" alt=\"HACCP认证\" fill className=\"object-cover\" />",
+    "image": "image61.png"
+  }
+]
